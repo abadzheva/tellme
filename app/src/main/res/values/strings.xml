@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TellMe</string>
+    <string name="affirmation">Аффирмация</string>
+    <string name="predicter">Предсказатель</string>
+    <string name="colorday">Цвет дня</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="affirmationday">Аффирмация дня</string>
+    <string name="predicter_button">Задай свой вопрос!</string>
+</resources>
